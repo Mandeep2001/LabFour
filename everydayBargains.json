@@ -1,0 +1,20 @@
+{
+	"everydayBargains": [
+		{
+			"item": "Foundation",
+			"price": 78.90,
+			"image": "Foundation.jpg"
+		},
+		{
+			"item": "Concealer",
+			"price": 89.89,
+			"image": "Concealer.jpg"
+		},
+		{
+			"item": "Primer",
+			"price": 78.90,
+			"image": "Primer.jpg"
+		}
+		
+	]
+}
